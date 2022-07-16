@@ -1,4 +1,14 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/charazer/charazer/blob/main/devcard.svg" width="400" alt="Damian Ehlhardt's Dev Card"/></a>
+### Hey there, I'm Damian!
+
+- :rainbow: my pronouns are ... he / him / his
+- :heart_eyes: I love ... making music (guitar, piano, drums, singing)
+- :computer: I’m currently working on ... making the world a better place with every search
+- :seedling: I’m currently learning ... Go, Vue, TDD, CI/CD, Cloud Computing
+- :speech_balloon: Ask me about ... sustainability, veganism, diversity, non-violent communication
+
+### Dev Card
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/charazer/charazer/blob/main/devcard.svg" width="300" alt="Damian Ehlhardt's Dev Card"/></a>
 
 <!--
 **charazer/charazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
