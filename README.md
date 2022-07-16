@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/charazer"><img src="https://api.daily.dev/devcards/7fdcc93044f6491c893f9d66ebffdc17.png?r=nbg" width="400" alt="Damian Ehlhardt's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/charazer/charazer/blob/master/devcard.svg" width="400" alt="Damian Ehlhardt's Dev Card"/></a>
 
 <!--
 **charazer/charazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
