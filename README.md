@@ -1,6 +1,6 @@
 ### Hey there, I'm Damian!
 
-- :rainbow: my pronouns are ... he / him / his
+- :rainbow: my pronouns are ... all pronouns
 - :heart_eyes: I love ... making music (guitar, piano, drums, singing)
 - :computer: I’m currently working on ... making the world a better place with every search
 - :seedling: I’m currently learning ... Go, Vue, TDD, CI/CD, Cloud Computing
