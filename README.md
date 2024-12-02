@@ -8,7 +8,7 @@
 
 ### Dev Card
 
-<a href="https://app.daily.dev/charazer"><img src="https://github.com/charazer/charazer/blob/main/devcard.svg" width="300" alt="Damian Ehlhardt's Dev Card"/></a>
+<a href="https://app.daily.dev/charazer"><img src="https://api.daily.dev/devcards/v2/rmqWAlNoywcWSugWJx5fD.png?type=default&r=8ul" width="356" alt="Damian Ehlhardt's Dev Card"/></a>
 
 <!--
 **charazer/charazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
