@@ -4,7 +4,7 @@
 
 ---
 
-😍 I love ... ***making music (guitar, piano, drums, singing)***
+😍 I love ... ***making music (guitar, piano, drums, singing), languages, anime, gaming***
 
 ---
 
