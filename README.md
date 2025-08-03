@@ -1,26 +1,19 @@
-### Hey there, I'm Damian!
+# Hey there, I'm Damian 👋
 
-- :rainbow: my pronouns are ... they/them
-- :heart_eyes: I love ... making music (guitar, piano, drums, singing)
-- :computer: I’m currently working on ... making the world a better place with every search
-- :seedling: I’m currently learning ... Go, Vue, TDD, CI/CD, Cloud Computing
-- :speech_balloon: Ask me about ... sustainability, veganism, diversity, non-violent communication
+🌈 My pronouns are ... ***they/them***
 
-### Dev Card
+---
 
-<a href="https://app.daily.dev/charazer"><img src="https://api.daily.dev/devcards/v2/rmqWAlNoywcWSugWJx5fD.png?type=default&r=8ul" width="356" alt="Damian Ehlhardt's Dev Card"/></a>
+😍 I love ... ***making music (guitar, piano, drums, singing)***
 
-<!--
-**charazer/charazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+💻 I’m currently working on ... ***making the world a better place with every search***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🌱 I’m currently learning ... ***Go, Vue, TDD, CI/CD, Cloud Computing***
+
+---
+
+💬 Ask me about ... ***sustainability, veganism, neurodiversity***
